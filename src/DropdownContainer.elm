@@ -1,4 +1,4 @@
-module DropdownContainer exposing (State(..), Visibility(..), initialState)
+module DropdownContainer exposing (Config, State, Visibility(..), attributes, initialState, triggerAttributes)
 
 import Html
 import Html.Attributes as Att

@@ -1,6 +1,6 @@
 {
     "type": "package",
-    "name": "Kurren123/dropdown-container",
+    "name": "Kurren123/k-dropdown-container",
     "summary": "A container for dropdowns",
     "license": "BSD-3-Clause",
     "version": "1.0.0",

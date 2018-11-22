@@ -1,3 +1,6 @@
+# DEPRECIATED
+This is no longer being used, as I discovered CSS can accomplish the same thing with the `:focus` pseudo element. I may post a future blog for details on how.
+
 # k dropdown container
 A dropdown container in elm which can keep open when the user clicks inside (if you so choose). This is a reusable view, not a component. I have tried my best to adhere to the elm architecture rather than component based architecture, similar to the guidelines set out in [elm sortable table](https://package.elm-lang.org/packages/evancz/elm-sortable-table/latest). As such, some things in this reusable view have to be handled by you, the user. This will ultimately lead to a simpler application as:
 
